@@ -12,7 +12,7 @@ html, body {
 body {
   position: relative;
   font-family: 'Roboto', sans-serif;
-  background: url('/images/bg.png') 50% 50% / cover;
+  background: url('../images/bg.png') 50% 50% / cover;
 }
 
 img, svg {
@@ -123,7 +123,7 @@ main {
   z-index: -1;
   width: 53px;
   height: 35px;
-  background: url('/images/star-ellipse.svg') no-repeat;
+  background: url('../images/star-ellipse.svg') no-repeat;
 }
 
 .header-panel-item__icon-wrapper {
