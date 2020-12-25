@@ -143,7 +143,7 @@ main {
 .header-panel__button {
   position: relative;
   padding: 8px 30px 8px 48px;
-  background: url('/images/premium.svg') no-repeat;
+  background: url('../images/premium.svg') no-repeat;
   background-size: 100% 100%;
 }
 
@@ -155,7 +155,7 @@ main {
   transform: translateY(-50%);
   width: 67px;
   height: 61px;
-  background: url('/images/money.svg') no-repeat;
+  background: url('../images/money.svg') no-repeat;
 }
 
 .main__container {
